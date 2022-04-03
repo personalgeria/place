@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         FUMAR
+// @name         DZTUN
 // @namespace    h
 // @version      0.1
 // @description  try to take over the canvas!
