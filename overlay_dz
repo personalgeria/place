@@ -9,6 +9,13 @@
             ],
             "x": 633,
             "y": 809
+        },{
+            "name": "Algerian flag2",
+            "sources": [
+                "https://raw.githubusercontent.com/personalgeria/place/main/dz2.png"
+            ],
+            "x": 663,
+            "y": 809
         }
     ],
     "whitelist": [
