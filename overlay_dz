@@ -1,0 +1,17 @@
+{
+    "faction": "/r/algeria",
+    "contact": "https://discord.gg/kpWuBa3cPF",
+    "templates": [
+        {
+            "name": "Algerian flag",
+            "sources": [
+                "https://raw.githubusercontent.com/personalgeria/place/main/dz.png"
+            ],
+            "x": 133,
+            "y": 309
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": []
+}
