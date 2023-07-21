@@ -9,6 +9,14 @@
             ],
             "x": 532,
             "y": 980
+        },
+        {
+            "name": "Algerian flag new location",
+            "sources": [
+                "https://raw.githubusercontent.com/personalgeria/place/main/alg11.png"
+            ],
+            "x": 1340,
+            "y": 791
         }
     ],
     "whitelist": [
